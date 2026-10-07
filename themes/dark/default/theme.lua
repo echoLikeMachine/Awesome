@@ -17,7 +17,7 @@ theme.font          = "sans 8"
 theme.bg_normal     = "#111111"
 theme.bg_focus      = "#222222"
 theme.bg_urgent     = "#ff0000"
-theme.bg_minimize   = "#333333"
+theme.bg_minimize   = "#111111"
 theme.bg_systray    = theme.bg_normal
 
 theme.fg_normal     = "#aaaaaa"
@@ -27,8 +27,8 @@ theme.fg_minimize   = "#ffffff"
 
 theme.useless_gap         = dpi(4)
 theme.border_width        = dpi(2)
-theme.border_color_normal = "#000000"
-theme.border_color_active = "#535d6c"
+theme.border_color_normal = "#111111"
+theme.border_color_active = "#222222"
 theme.border_color_marked = "#91231c"
 
 -- There are other variable sets
