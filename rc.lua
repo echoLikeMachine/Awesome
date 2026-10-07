@@ -585,3 +585,5 @@ client.connect_signal("property::fullscreen", function(c)
         end
     end
 end)
+
+awful.spawn.with_shell ( "$HOME/.config/awesome/wmconfig/autostart.sh" )
